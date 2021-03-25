@@ -290,7 +290,7 @@ main{
   }
 }
 
-@media only screen and (min-width: 500px) and (max-width: 540px) {
+@media only screen and (min-width: 500px) and (max-width: 600px) {
   #button-desktop{
     font-size: 0.65em;
   }
